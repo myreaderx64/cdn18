@@ -1,0 +1,1310 @@
+<!DOCTYPE html>
+<html lang="pl-PL" prefix="og: http://ogp.me/ns#" data-scroll="0">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=1, width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="cache-control" content="public" />
+
+      <title>Najświeższe wiadomości - epoznan.pl</title>
+    <link rel="canonical" href="https://epoznan.pl/newsList-0-najswiezsze_wiadomosci">
+  
+  <meta name="robots" content="index,follow"/>
+
+  
+  <link rel="stylesheet" href="https://epoznan.pl/new_assets/css/magnific-popup.css" type="text/css" media="all" />
+
+  <link rel='stylesheet' href="https://epoznan.pl/new_assets/css/app.css?1598968307" type='text/css' media='all' />
+
+  <link rel="apple-touch-icon" sizes="57x57" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://epoznan.pl/new_assets/img/favicons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="https://epoznan.pl/new_assets/img/favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://epoznan.pl/new_assets/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="https://epoznan.pl/new_assets/img/favicons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://epoznan.pl/new_assets/img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="https://epoznan.pl/new_assets/img/favicons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="https://epoznan.pl/new_assets/img/favicons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+  <script>
+    googletag.cmd.push(function() {
+                      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs();
+      googletag.enableServices();
+    });
+  </script>
+
+  </head>
+<body class="grid-right">
+
+  <header class="header">
+    <div class="container" id="mainContainer">
+      <div class="header__top">
+        <ul class="header__socials">
+          <li class="header__social">
+            <a href="https://pl-pl.facebook.com/epoznan/" class="header__socialLink icon-facebook"></a>
+          </li>
+          <li class="header__social">
+            <a href="https://www.instagram.com/epoznan.pl/" class="header__socialLink icon-instagram"></a>
+          </li>
+        </ul>
+        <div class="header__logo" id="main-logo">
+          <a href="//epoznan.pl" class="header__logoLink">
+            <img src="https://epoznan.pl/new_assets/img/logo.svg" class="header__logoImage" alt="">
+          </a>
+        </div>
+        <ul class="header__buttons" id="header-buttons">
+          <li class="header__button header__button--search">
+            <a href="#" onclick="javascript: searchPaddingLeft();" class="header__buttonLink icon-search">
+              <span class="header__buttonLinkText">Wyszukaj</span>
+            </a>
+            <div class="header__search">
+              <form action="//old.epoznan.pl/index.php" class="header__searchForm" id="cse-search-box">
+                <input type="hidden" name="section" value="news" />
+                <input type="hidden" name="subsection" value="search" />
+                <input type="hidden" name="layout" value="index_new.xtm" />
+                <input type="hidden" name="cx" value="016719165226267931369:n0jirdwinxe" />
+                <input type="hidden" name="cof" value="FORID:11;NB:1" />
+                <input type="hidden" name="ie" value="iso-8859-2" />
+                <input type="hidden" name="num" value="15" />
+                <input type="text" name="q" id="q_search" class="header__searchInput" placeholder="Wpisz czego szukasz..." onchange="javascript: delPlInSearch();">
+                <button type="submit" class="header__searchSubmit"></button>
+                <script src="https://www.google.com/cse/brand?form=cse-search-box&amp;lang=pl&amp;sitesearch=true"></script>
+              </form>
+            </div>
+          </li>
+                    <span id="header-login-button"></span>
+            <li class="header__button" id="login-form-container">
+                <a href="#" class="header__buttonLink icon-account">
+                  <span class="header__buttonLinkText">Zaloguj</span>
+                </a>
+                <div class="header__login">
+                  <div class="header__loginOuter">
+                    <form id="login-form" action="https://epoznan.pl/login" class="header__loginInner" method="post">
+                      <input type="hidden" name="_token" value=""> <!-- <input type="hidden" name="_token" value=""> -->
+                      <label class="header__loginLabel">
+                        <span class="header__loginText">Login</span>
+                        <input type="text" name="login" class="header__loginInput" value="">
+                      </label>
+                      <label class="header__loginLabel">
+                        <span class="header__loginText">Hasło</span>
+                        <input type="password" name="password" class="header__loginInput" value="">
+                        <a href="#" class="header__loginPassword"></a>
+                        <a href="#" class="header__loginText header__loginText--link" data-popup-open="remember-password">Zapomniałeś hasła?</a>
+                      </label>
+                      <button type="button" class="header__loginSubmit" id="login-button">Zaloguj</button>
+                      <div class="header__loginInfo">
+                        <div class="header__loginInfoInner">Nie masz konta? <a href="https://epoznan.pl/register">Zarejestruj się</a></div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+            </li>
+                    </ul>
+      </div>
+      <div class="header__bottom" id="main-menu">
+        <div class="header__logo header__logo--bottom">
+          <a href="//epoznan.pl" class="header__logoLink">
+            <img src="https://epoznan.pl/new_assets/img/logo.svg" class="header__logoImage" alt="">
+          </a>
+        </div>
+        <ul class="header__menu mainNav" id="menu-normal-page">
+
+      <li class="mainNav__item mainNav__item--featured np-desktop" id="menu-item-1">
+        <a href="//epoznan.pl/newsList-0-najswiezsze_wiadomosci" class="mainNav__itemLink" data-text="Wiadomości">Wiadomości</a>
+        <div class="mainNav__itemSubmenu">
+    <div class="mainNav__itemSubmenuArrow"></div>
+    <ul class="mainNav__itemSubmenuColumns">
+                        <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-19-policja" class="mainNav__itemSubmenuItemLink" data-text="kronika policyjna">kronika policyjna</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-30-inwestycje" class="mainNav__itemSubmenuItemLink" data-text="inwestycje">inwestycje</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-71-nieruchomosci" class="mainNav__itemSubmenuItemLink" data-text="nieruchomości">nieruchomości</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-229-gospodarka" class="mainNav__itemSubmenuItemLink" data-text="biznes">biznes</a>
+          </li>
+                  </ul>
+        </li>
+                                <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-141-polityka" class="mainNav__itemSubmenuItemLink" data-text="polityka">polityka</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-8-komunikacja" class="mainNav__itemSubmenuItemLink" data-text="komunikacja">komunikacja</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-950-wywiad" class="mainNav__itemSubmenuItemLink" data-text="wywiady">wywiady</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-340-kultura" class="mainNav__itemSubmenuItemLink" data-text="kultura">kultura</a>
+          </li>
+                  </ul>
+        </li>
+                                <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-15-historia" class="mainNav__itemSubmenuItemLink" data-text="historia">historia</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-73-life" class="mainNav__itemSubmenuItemLink" data-text="life style">life style</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/newsList-50-region" class="mainNav__itemSubmenuItemLink" data-text="region">region</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//epoznan.pl/weather" class="mainNav__itemSubmenuItemLink" data-text="pogoda">pogoda</a>
+          </li>
+                  </ul>
+        </li>
+                    </ul>
+</div>
+    </li>
+    <li class="mainNav__item mainNav__item--featured np-desktop" id="menu-item-7">
+        <a href="//epoznan.pl/weather" class="mainNav__itemLink" data-text="Pogoda">Pogoda</a>
+    </li>
+    <li class="mainNav__item mainNav__item--featured np-desktop" id="menu-item-2">
+        <a href="//sport.epoznan.pl/sport" class="mainNav__itemLink" data-text="Sport">Sport</a>
+        <div class="mainNav__itemSubmenu">
+    <div class="mainNav__itemSubmenuArrow"></div>
+    <ul class="mainNav__itemSubmenuColumns">
+                        <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/index.php?section=sport&amp;type=nozna" class="mainNav__itemSubmenuItemLink" data-text="piłka nożna">piłka nożna</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/sport-miejsca-106-kluby_fitness_i_silownie" class="mainNav__itemSubmenuItemLink" data-text="kluby fitnes i siłownie">kluby fitnes i siłownie</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/sport-miejsca-107-korty_tenisowe" class="mainNav__itemSubmenuItemLink" data-text="tenis">tenis</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/index.php?section=sport&amp;subsection=miejsca&amp;mode=single&amp;id=108" class="mainNav__itemSubmenuItemLink" data-text="kluby sportowe">kluby sportowe</a>
+          </li>
+                  </ul>
+        </li>
+                                <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/sport-wydarzenia" class="mainNav__itemSubmenuItemLink" data-text="kalendarium">kalendarium</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/index.php?section=sport&amp;type=hokej" class="mainNav__itemSubmenuItemLink" data-text="hokej">hokej</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/index.php?section=sport&amp;type=żużel" class="mainNav__itemSubmenuItemLink" data-text="żużel">żużel</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/index.php?section=sport&amp;type=siatkówka" class="mainNav__itemSubmenuItemLink" data-text="siatkówka">siatkówka</a>
+          </li>
+                  </ul>
+        </li>
+                                <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/index.php?section=sport&amp;type=koszykówka" class="mainNav__itemSubmenuItemLink" data-text="koszykówka">koszykówka</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//sport.epoznan.pl/sport-miejsca-105-baseny" class="mainNav__itemSubmenuItemLink" data-text="baseny">baseny</a>
+          </li>
+                        </ul>
+      </li>
+        </ul>
+</div>
+    </li>
+    <li class="mainNav__item mainNav__item--featured np-desktop" id="menu-item-3">
+        <a href="//epoznan.pl/culture" class="mainNav__itemLink" data-text="Kultura i rozrywka">Kultura i rozrywka</a>
+    </li>
+    <li class="mainNav__item mainNav__item--featured np-desktop" id="menu-item-4">
+        <a href="//epoznan.pl/traffic" class="mainNav__itemLink" data-text="Korki">Korki</a>
+    </li>
+    <li class="mainNav__item np-desktop" id="menu-item-5">
+        <a href="//turystyka.epoznan.pl/turystyka" class="mainNav__itemLink" data-text="Turystyka">Turystyka</a>
+        <div class="mainNav__itemSubmenu">
+    <div class="mainNav__itemSubmenuArrow"></div>
+    <ul class="mainNav__itemSubmenuColumns">
+                        <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/turystyka-historia" class="mainNav__itemSubmenuItemLink" data-text="historia">historia</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/index.php?section=turystyka&amp;subsection=miejsca&amp;mode=single&amp;id=22" class="mainNav__itemSubmenuItemLink" data-text="zabytki">zabytki</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/index.php?section=turystyka&amp;subsection=miejsca&amp;mode=single&amp;id=8" class="mainNav__itemSubmenuItemLink" data-text="muzea i galerie">muzea i galerie</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/index.php?section=turystyka&amp;subsection=miejsca&amp;mode=single&amp;id=27" class="mainNav__itemSubmenuItemLink" data-text="współczesna architektura">współczesna architektura</a>
+          </li>
+                  </ul>
+        </li>
+                                <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/index.php?section=turystyka&amp;subsection=miejsca&amp;mode=single&amp;id=29" class="mainNav__itemSubmenuItemLink" data-text="atrakcje">atrakcje</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/index.php?section=turystyka&amp;subsection=miejsca&amp;mode=single&amp;id=25" class="mainNav__itemSubmenuItemLink" data-text="hotele">hotele</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/index.php?section=turystyka&amp;subsection=miejsca&amp;mode=single&amp;id=15" class="mainNav__itemSubmenuItemLink" data-text="restauracje">restauracje</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//turystyka.epoznan.pl/index.php?section=turystyka&amp;subsection=miejsca&amp;mode=single&amp;id=28" class="mainNav__itemSubmenuItemLink" data-text="dwory i pałace">dwory i pałace</a>
+          </li>
+                  </ul>
+        </li>
+                    </ul>
+</div>
+    </li>
+    <li class="mainNav__item np-desktop" id="menu-item-6">
+        <a href="//ogloszenia.epoznan.pl/ogloszenia" class="mainNav__itemLink" data-text="Ogłoszenia">Ogłoszenia</a>
+        <div class="mainNav__itemSubmenu">
+    <div class="mainNav__itemSubmenuArrow"></div>
+    <ul class="mainNav__itemSubmenuColumns">
+                        <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-1-Nieruchomosci" class="mainNav__itemSubmenuItemLink" data-text="nieruchomości">nieruchomości</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-4-Inne" class="mainNav__itemSubmenuItemLink" data-text="inne">inne</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-27-Nauka" class="mainNav__itemSubmenuItemLink" data-text="nauka">nauka</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-37-Dom_i_Ogrod" class="mainNav__itemSubmenuItemLink" data-text="dom i ogród">dom i ogród</a>
+          </li>
+                  </ul>
+        </li>
+                                <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-39-Turystyka" class="mainNav__itemSubmenuItemLink" data-text="turystyka">turystyka</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-57-Muzyka_i_instrumenty" class="mainNav__itemSubmenuItemLink" data-text="muzyka i instrumenty">muzyka i instrumenty</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-62-Rzeczy_znalezione" class="mainNav__itemSubmenuItemLink" data-text="rzeczy znalezione">rzeczy znalezione</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-3-Praca" class="mainNav__itemSubmenuItemLink" data-text="praca">praca</a>
+          </li>
+                  </ul>
+        </li>
+                                <li class="mainNav__itemSubmenuColumn">
+             <ul class="mainNav__itemSubmenuItems">
+                  <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-list-2-Motoryzacja" class="mainNav__itemSubmenuItemLink" data-text="motoryzacja">motoryzacja</a>
+          </li>
+                              <li class="mainNav__itemSubmenuItem">
+            <a href="//ogloszenia.epoznan.pl/ogloszenia-formularz" class="mainNav__itemSubmenuItemLink" data-text="dodaj ogłoszenie">dodaj ogłoszenie</a>
+          </li>
+                        </ul>
+      </li>
+        </ul>
+</div>
+    </li>
+    <li class="mainNav__item np-desktop" id="menu-item-8">
+        <a href="//randki.epoznan.pl" class="mainNav__itemLink" data-text="Randki">Randki</a>
+    </li>
+    <li class="mainNav__item np-desktop" id="menu-item-9">
+        <a href="//blogi.epoznan.pl/blogi-lista" class="mainNav__itemLink" data-text="Blogi">Blogi</a>
+    </li>
+    <li class="mainNav__item np-desktop" id="menu-item-10">
+        <a href="//forum.epoznan.pl/index.php?section=forum" class="mainNav__itemLink" data-text="Forum">Forum</a>
+    </li>
+
+    
+            <li class="mainNav__item mainNav__item--featured mainNav__item np-mobile" id="mobile-menu-item-1">
+            <a href="//epoznan.pl/traffic" class="mainNav__itemLink" data-text="Korki">Korki</a>
+        </li>
+        <li class="mainNav__item mainNav__item--featured mainNav__item np-mobile" id="mobile-menu-item-2">
+            <a href="//epoznan.pl/weather" class="mainNav__itemLink" data-text="Pogoda">Pogoda</a>
+        </li>
+        <li class="mainNav__item mainNav__item--featured mainNav__item np-mobile" id="mobile-menu-item-3">
+            <a href="//epoznan.pl/contact" class="mainNav__itemLink" data-text="Kontakt">Kontakt</a>
+        </li>
+        <li class="mainNav__item mainNav__item--featured mainNav__item np-mobile" id="mobile-menu-item-4">
+            <a href="//apka.epoznan.pl" class="mainNav__itemLink" data-text="Aplikacja Android">Aplikacja Android</a>
+        </li>
+    
+  </ul>
+                    <div class="header__menuButtonWrapper">
+                        <a href="#" class="header__menuButton np-button-desktop"  id="np-button-desktop" data-popup-open="contact"><span class="icon-upload"></span> Kontakt</a>
+                        </div>
+              </div>
+    </div>
+  </header>
+
+
+<div class="container">
+
+    <div class="bannerBox">
+        
+    </div>
+
+        <div style="width: 100%; height: 20px; clear: both;"></div>
+    
+    <div id="newsListContainer">
+
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109622-za_nami_dwa_dni_siatkarskiej_rywalizacji_nad_rusalka" class="masonryPosts__itemInner" id="news_left_id_109622">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69906/PiLM4eEc0LT6Ui5fveyL9xmvjXDUrCyz_story332.jpg?1599419514');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Za nami dwa dni siatkarskiej rywalizacji nad Rusałką
+                                    <span class="news_epoznan" id="news_109622_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109621-najnowszy_sondaz_duza_przewaga_pis_konfederacja_trzecia_sila" class="masonryPosts__itemInner" id="news_left_id_109621">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69905/Y75qbtM1lQI530u5A5aEZU3T43Ed21eQ_story332.jpg?1599417903');"></div>
+                            <div class="masonryPosts__itemInfo">
+                            <strong>Kraj</strong>
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Najnowszy sondaż: duża przewaga PiS, Konfederacja trzecią siłą
+                                    <span class="news_epoznan" id="news_109621_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109620-zaginal_paw_od_rana_trwaja_jego_poszukiwania" class="masonryPosts__itemInner" id="news_left_id_109620">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69904/WA6gFmtf3bSAZDWGyCD0ScPCxy8z41Pm_story331.jpg?1599405217');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Zaginął paw. Od rana trwają jego poszukiwania
+                                    <span class="news_epoznan" id="news_109620_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109619-diler_narkotykow_wpadl_bo_okradli_mu_kolege" class="masonryPosts__itemInner" id="news_left_id_109619">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69903/AaRDYPhJTF9qx42A2FP1W19BJLz1dYxS_story332.jpg?1599404101');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Diler narkotyków wpadł, bo okradli mu kolegę
+                                    <span class="news_epoznan" id="news_109619_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109618-w_poznaniu_jeszcze_w_tym_roku_powstanie_nowy_zieleniec" class="masonryPosts__itemInner" id="news_left_id_109618">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69902/ncoAdRFEIBuA8IWzoPCW5w8DjpLVFmHm_story332.jpg?1599403998');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            W Poznaniu jeszcze w tym roku powstanie nowy zieleniec
+                                    <span class="news_epoznan" id="news_109618_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109617-wielkopolska_ma_szanse_na_duze_inwestycje_kolejowe_do_programu_kolej_plus_zlozono_5_wnioskow" class="masonryPosts__itemInner" id="news_left_id_109617">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69901/xlqeXw49dIHJH5Bfhe6x4KU8RLkly5dD_story332.jpg?1599403151');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Wielkopolska ma szansę na duże inwestycje kolejowe. Do programu Kolej Plus złożono 5 wniosków
+                                    <span class="news_epoznan" id="news_109617_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109615-ciezki_sprzet_wjechal_nad_warte_w_poniedzialek_zaczna_znikac_betonowe_umocnienia" class="masonryPosts__itemInner" id="news_left_id_109615">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69899/ppD8Qm5Q47ct5VIiQTAim8hfSIQR05z5_story332.jpg?1599401900');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Ciężki sprzęt wjechał nad Wartę. W poniedziałek zaczną znikać betonowe umocnienia
+                                    <span class="news_epoznan" id="news_109615_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109616-sciegiennego_sloneczna_zderzyly_sie_dwa_samochody" class="masonryPosts__itemInner" id="news_left_id_109616">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69900/RJe1SKEP4JXqTybrvAkDtVcbAtODjVD2_story332.jpg?1599402509');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Ściegiennego / Słoneczna: zderzyły się dwa samochody
+                                    <span class="news_epoznan" id="news_109616_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109614-kilka_linii_autobusowych_zmieni_swoje_trasy_warto_sprawdzic_rozklad_jazdy" class="masonryPosts__itemInner" id="news_left_id_109614">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69898/6jb80e0wKH0tdDxqmOSukDxeLBtMPmjs_story332.jpg?1599400938');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Kilka linii autobusowych zmieni swoje trasy. Warto sprawdzić rozkład jazdy!
+                                    <span class="news_epoznan" id="news_109614_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109613-nurek_wszedl_do_wody_i_nie_wyplynal_trwaja_poszukiwania" class="masonryPosts__itemInner" id="news_left_id_109613">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69897/tb8dsCOJcPONQ7VI7MQXGRCArs6ISDi4_story331.jpg?1599414942');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Nurek wszedł do wody i nie wypłynął . Trwają poszukiwania
+                                    <span class="news_epoznan" id="news_109613_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+    </div>
+</section>
+
+    
+            <div class="mainBoxes__large" style="margin-bottom: 40px;">
+                        <script>
+
+                    var _gaq = _gaq || [];
+                    _gaq.push(['_setAccount', 'UA-2065216-21']);
+                    _gaq.push(['_setSampleRate', '10.0']);
+                    _gaq.push(['_trackPageview', '/adsys2.php?id=11396']);
+
+                    (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                    })();
+
+                </script>
+                <div width='608px' height='150px' scrolling="no" style="border:none; margin-bottom: 2px; text-align: center;" frameborder="0"><a href='adsysClick?id=11396' target='_blank'><img style='border:none' src='https://epoznan.pl/storage/adsys/jbjgcmrnqc.jpg'  width='608' height='150' alt='Reklama' /></a></div>
+    </div>
+    
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109612-wypadek_podczas_konnej_przejazdzki_po_ranna_przylecial_smiglowiec_lpr" class="masonryPosts__itemInner" id="news_left_id_109612">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69896/vxC38h3DfkzYNuDLTgt4tK3WMeIXELWw_story331.jpg?1599399608');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Wypadek podczas konnej przejażdżki. Po ranną przyleciał śmigłowiec LPR
+                                    <span class="news_epoznan" id="news_109612_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109611-przejechal_przez_chodnik_i_staranowal_ogrodzenie_kierowca_zaslabl" class="masonryPosts__itemInner" id="news_left_id_109611">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69895/YWGKDOtMpKyF9yz7IqCg6acaCSuVULzB_story332.jpg?1599415099');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Przejechał przez chodnik i staranował ogrodzenie. &quot;Kierowca zasłabł&quot;
+                                    <span class="news_epoznan" id="news_109611_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109610-aquanet_mieszkancy_dwoch_poznanskich_ulic_nie_beda_mieli_wody" class="masonryPosts__itemInner" id="news_left_id_109610">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69894/0sRRF1NeA7rEVs5C6Hi5mFlRf2ZdF4Nx_story332.jpg?1599397330');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Aquanet: mieszkańcy dwóch poznańskich ulic nie będą mieli wody!
+                                    <span class="news_epoznan" id="news_109610_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109609-jak_powinna_wygladac_i_ktoredy_przebiegac_trasa_tramwajowa_na_marcelin_miasto_czeka_na_opinie" class="masonryPosts__itemInner" id="news_left_id_109609">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69893/kMKg64iZCmPB1yfQIfOI1idX4ZQYJscu_story332.jpg?1599395654');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Jak powinna wyglądać i którędy przebiegać trasa tramwajowa na Marcelin? Miasto czeka na opinie
+                                    <span class="news_epoznan" id="news_109609_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109608-awantura_w_mieszkaniu_50_latek_zostal_dotkliwie_pobity_dwa_razy_tego_samego_dnia" class="masonryPosts__itemInner" id="news_left_id_109608">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69892/PsIpN9JxiaA3XG0xTqqx2POJFgnp4gZ8_story332.jpg?1599393500');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Awantura w mieszkaniu. 50-latek został dotkliwie pobity dwa razy tego samego dnia
+                                    <span class="news_epoznan" id="news_109608_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109607-ruszaja_kolejne_prace_na_poznanskich_ulicach_gdzie_pojawia_sie_utrudnienia" class="masonryPosts__itemInner" id="news_left_id_109607">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69891/kUuYLV8AoOOSlDONoHt7LikIXrEnUvpX_story332.jpg?1599391901');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Ruszają kolejne prace na poznańskich ulicach. Gdzie pojawią się utrudnienia?
+                                    <span class="news_epoznan" id="news_109607_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109606-uwaga_zmienia_sie_regulamin_przewozow_ztm_chodzi_o_zwrot_pieniedzy_za_zakupione_bilety" class="masonryPosts__itemInner" id="news_left_id_109606">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69890/eWYEfBfoYEKH4C3DoN0XUVHZJKwFTYq0_story332.jpg?1599390554');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Uwaga! Zmienia się Regulamin Przewozów ZTM. Chodzi o zwrot pieniędzy za zakupione bilety
+                                    <span class="news_epoznan" id="news_109606_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109605-probowal_przejechac_policjanta_a_policjantke_uderzyl_drzwiami_od_samochodu_37_latek_aresztowany_po_poscigu" class="masonryPosts__itemInner" id="news_left_id_109605">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69889/BU59KFPVwyFdIld555XpLetA9ccqbP36_story332.jpg?1599387872');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Próbował przejechać policjanta, a policjantkę uderzył drzwiami od samochodu. 37-latek aresztowany po pościgu
+                                    <span class="news_epoznan" id="news_109605_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109604-wysoki_rating_poznania_to_najwyzsza_mozliwa_do_uzyskania_przez_polski_samorzad_ocena" class="masonryPosts__itemInner" id="news_left_id_109604">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69888/dMfghPCElUd7xIh7CTkSKqlN8aOfhFH9_story332.jpg?1599386630');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Wysoki rating Poznania. &quot;To najwyższa możliwa do uzyskania przez polski samorząd ocena&quot;
+                                    <span class="news_epoznan" id="news_109604_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109603-25_latek_podejrzany_o_potracenie_dziennikarki_zeznal_ze_uciekl_bo_nie_mial_przy_sobie_prawa_jazdy" class="masonryPosts__itemInner" id="news_left_id_109603">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69887/KQyd17sV5PHBdz5YhYdGRRFVJIOIjto5_story331.jpg?1599384346');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            25-latek podejrzany o potrącenie dziennikarki zeznał, że uciekł, bo nie miał przy sobie prawa jazdy
+                                    <span class="news_epoznan" id="news_109603_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+    </div>
+</section>
+
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109601-35_nowych_zakazen_koronawirusem_w_wielkopolsce_w_kraju_najnizszy_przyrost_od_czerwca" class="masonryPosts__itemInner" id="news_left_id_109601">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69885/4vg4pQjnyejhO5xTN5FrWODc0PeYEcjF_story331.jpg?1599381311');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            35 nowych zakażeń koronawirusem w Wielkopolsce. W kraju najniższy przyrost od czerwca
+                                    <span class="news_epoznan" id="news_109601_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109602-w_poznanskim_szpitalu_zmarla_kolejna_ofiara_koronawirusa" class="masonryPosts__itemInner" id="news_left_id_109602">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69886/ReUlwL3UWItssYtbVThpS8JCugbXTlOn_story332.jpg?1599382340');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            W poznańskim szpitalu zmarła kolejna ofiara koronawirusa
+                                    <span class="news_epoznan" id="news_109602_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109600-stop_plandemii_na_starym_rynku_protestujacy_domagali_sie_by_nie_ograniczac_ich_wolnosci" class="masonryPosts__itemInner" id="news_left_id_109600">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69884/XvlIyoN4bfx2KjgZo5S0nTG0MjdE7qmc_story332.jpg?1599379861');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Stop &quot;plandemii&quot; na Starym Rynku. Protestujący domagali się, by nie ograniczać ich wolności
+                                    <span class="news_epoznan" id="news_109600_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109599-akcja_strazakow_na_jeziorze_poszukiwany_mezczyzna_sam_wyszedl_z_wody_i_zupelnie_nagi_szedl_do_sklepu" class="masonryPosts__itemInner" id="news_left_id_109599">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69883/el0GBhDcDld3djD1FCsRv60qXhhXsRCr_story332.jpg?1599378380');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Akcja strażaków na jeziorze. Poszukiwany mężczyzna sam wyszedł z wody i zupełnie nagi szedł do sklepu
+                                    <span class="news_epoznan" id="news_109599_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109598-tragiczny_wypadek_z_udzialem_rowerzysty_mezczyzna_zmarl_w_szpitalu" class="masonryPosts__itemInner" id="news_left_id_109598">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69882/8SfSfZw7u52QiiGqV61zGPUoIb3zjh3l_story332.jpg?1599377490');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Tragiczny wypadek z udziałem rowerzysty. Mężczyzna zmarł w szpitalu
+                                    <span class="news_epoznan" id="news_109598_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109597-kon_z_jezdzcem_wpadli_do_jeziora_zwierze_nie_moglo_o_wlasnych_silach_wyjsc_z_wody" class="masonryPosts__itemInner" id="news_left_id_109597">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69881/c1UWJDnrsbM8Svxi4uVE1FqDis6xwclj_story332.jpg?1599326416');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Koń z jeźdźcem wpadli do jeziora. Zwierzę nie mogło o własnych siłach wyjść z wody
+                                    <span class="news_epoznan" id="news_109597_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109596-pieciu_policjantow_poszkodowanych_po_poscigu_za_kierowca_ktory_nie_zatrzymal_sie_do_kontroli" class="masonryPosts__itemInner" id="news_left_id_109596">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69880/95Kt1CzVJ15B2iaTA8sLgflm93aoG19y_story332.jpg?1599318168');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Pięciu policjantów poszkodowanych po pościgu za kierowcą, który nie zatrzymał się do kontroli
+                                    <span class="news_epoznan" id="news_109596_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109595-weekendowe_atrakcje_na_targach_przyciagaja_tlumy" class="masonryPosts__itemInner" id="news_left_id_109595">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69879/6MzsRfLxW9iw26KrS9zzuuMJXwCA3kez_story332.jpg?1599319777');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Weekendowe atrakcje na targach przyciągają tłumy
+                                    <span class="news_epoznan" id="news_109595_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109593-imgw_znow_ostrzega_przed_burzami_z_gradem" class="masonryPosts__itemInner" id="news_left_id_109593">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69877/Ieokuw2eYJY3L08FNPJXFggXl4YCyKCe_story332.jpg?1599314675');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            IMGW znów ostrzega przed burzami z gradem
+                                    <span class="news_epoznan" id="news_109593_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109594-nauczyciel_i_uczniowie_na_kwarantannie_po_tym_jak_okazalo_sie_ze_jedna_z_uczennic_ma_koronawirusa" class="masonryPosts__itemInner" id="news_left_id_109594">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69878/qo39Mh4dK5zStZL3xCx3PefgltAaBoN0_story331.jpg?1599316546');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Nauczyciel i uczniowie na kwarantannie, po tym jak okazało się, że jedna z uczennic ma koronawirusa
+                                    <span class="news_epoznan" id="news_109594_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+    </div>
+</section>
+
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109583-poznaniacy_wspolnie_czytaja_balladyne_tegoroczna_lektura_jak_na_obecne_polskie_realia_jest_tekstem_wyjatkowo_aktualnym" class="masonryPosts__itemInner" id="news_left_id_109583">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69867/CSgX9TfVi3u8irFRptAKQ3r2MFfgq4gC_story332.jpg?1599313676');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Poznaniacy wspólnie czytają &quot;Balladynę&quot;.  &quot;Tegoroczna lektura, jak na obecne polskie realia jest tekstem wyjątkowo aktualnym&quot;
+                                    <span class="news_epoznan" id="news_109583_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109584-na_starym_rynku_odbywa_sie_w_sobote_swieto_chleba" class="masonryPosts__itemInner" id="news_left_id_109584">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69868/fwF6ngUXxzLodwjwBFO7wsnEMWxn0H4b_story332.jpg?1599312317');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Na Starym Rynku odbywa się w sobotę &quot;Święto Chleba&quot;
+                                    <span class="news_epoznan" id="news_109584_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109592-akcja_policji_na_przystanku_autobusowym" class="masonryPosts__itemInner" id="news_left_id_109592">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69876/qzzqfNwwcuB7q4vuhJJx0PK7X7JEN6Tj_story331.jpg?1599311272');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Akcja policji na przystanku autobusowym
+                                    <span class="news_epoznan" id="news_109592_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109591-25_latek_uslyszal_zarzuty_w_sprawie_smierci_dziennikarki_dzis_zatrzymano_kolejne_osoby" class="masonryPosts__itemInner" id="news_left_id_109591">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69875/8AOffbX6JW0vPQwSbC3v7z4l5VegIhcf_story332.jpg?1599309190');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            25-latek usłyszał zarzuty w sprawie śmierci dziennikarki. Dziś zatrzymano kolejne osoby
+                                        <div class="postItem__infoTitle" style="clear: both; float: none; margin-top: 4px; width: 126px; background-color: #0070ce; text-shadow: none;">AKTUALIZACJA</div>
+                        <span class="news_epoznan" id="news_109591_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109590-9_goli_w_meczu_rezerw_kolejorza_gralo_wielu_zawodnikow_z_pierwszego_zespolu" class="masonryPosts__itemInner" id="news_left_id_109590">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69874/5HDyDBJLwm7hV20BQBRtYygDFUTmqlOW_story332.jpg?1599308076');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            9 goli w meczu rezerw Kolejorza. Grało wielu zawodników z pierwszego zespołu
+                                    <span class="news_epoznan" id="news_109590_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+            <section class="masonryPosts">
+    <div class="masonryPosts__items row">
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109589-motocyklista_chcial_przekupic_policjantow_mial_ponad_2_promile" class="masonryPosts__itemInner" id="news_left_id_109589">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69873/LsDzmTOp4bcls91dxlRwPpR5fGNaShtj_story332.jpg?1599307563');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Motocyklista chciał przekupić policjantów. Miał ponad 2 promile
+                                    <span class="news_epoznan" id="news_109589_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109588-samodzielny_start_nowej_solidarnosci_w_wyborach_co_trzeci_polak_jest_za" class="masonryPosts__itemInner" id="news_left_id_109588">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69872/VqQxPBGmd1GCvnDLMzrBdrZxZsfOWn83_story332.jpg?1599305551');"></div>
+                            <div class="masonryPosts__itemInfo">
+                            <strong>Kraj</strong>
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Samodzielny start &quot;Nowej Solidarności&quot; w wyborach? Co trzeci Polak jest za
+                                    <span class="news_epoznan" id="news_109588_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+                <div class="masonryPosts__item masonryPosts__item--large col-7 story-big">
+                        <a href="news-news-109587-koronawirus_w_wielkopolsce_zakazenie_wykryto_u_jednej_z_mieszkanek_dps_u" class="masonryPosts__itemInner" id="news_left_id_109587">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69871/WJbmUQc26jdgceFNsedXegVe5PVcO0dT_story331.jpg?1599305213');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Koronawirus w Wielkopolsce. Zakażenie wykryto u jednej z mieszkanek DPS-u
+                                    <span class="news_epoznan" id="news_109587_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+        </div>
+        <div class="masonryPosts__item col-5 story-small">
+                        <div class="masonryPosts__item col-5 story-small-inner story-left" style="padding: 0; margin-top: 0;">
+                                <a href="news-news-109586-pieszy_spacerowal_na_s11_pod_poznaniem" class="masonryPosts__itemInner" id="news_left_id_109586">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69870/z5qzExIIrZ1bgoe46MXXOt8YOIWKw3wx_story332.jpg?1599303903');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Pieszy &quot;spacerował&quot; na S11 pod Poznaniem
+                                    <span class="news_epoznan" id="news_109586_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+                        <div class="masonryPosts__item col-5 story-small-inner story-right" style="padding: 0;">
+                                <a href="news-news-109585-dziennikarka_zginela_w_wypadku_wczesniej_miala_dostawac_listy_z_pogrozkami" class="masonryPosts__itemInner" id="news_left_id_109585">
+                                    <div class="masonryPosts__itemBg" style="background-image: url('https://epoznan.pl/storage/gallery/69869/oRZQXIMgzhautpHIU5jUmmPBJmwCc2em_story332.jpg?1599305352');"></div>
+                            <div class="masonryPosts__itemInfo">
+                    </div>
+        <h4 class="masonryPosts__itemTitle">
+            Dziennikarka zginęła w wypadku. Wcześniej miała dostawać listy z pogróżkami
+                                    <span class="news_epoznan" id="news_109585_0" style="font-size: 14px; font-weight: normal;"></span>
+        </h4>
+    </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+    </div>
+
+    <div class="header__menuButtonWrapper" style="margin: 50px auto; display: block; width: 186px;" id="show-more-news-list-wrapper">
+        <a href="javascript: showMoreNewsListDesktop(1);" class="header__menuButton" id="show-more-news-list" style="clear: both; margin-left: 0; padding: 0 24px;"><span class="icon-arrow-down"></span> Zobacz więcej </a>
+    </div>
+</div>
+
+
+<div class="popup" data-popup="contact">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <form id="contact-form" class="popup__wrapper" action="https://epoznan.pl/addAlarm" method="post" enctype="multipart/form-data" data-simplebar>
+        <input type="hidden" name="_token" value=""> <!-- <input type="hidden" name="_token" value=""> -->
+        <h5 class="popup__title">Formularz kontaktowy</h5>
+        <input type="hidden" id="ready-to-send" name="ready-to-send" value="0" />
+        <div class="popup__items">
+          <div class="popup__item">
+            <input type="text" id="contact-sender" name="sender" class="popup__itemInput popup__itemInput--input" placeholder="Kontaktowy numer telefonu lub e-mail">
+          </div>
+          <div class="popup__item">
+            <textarea id="contact-textarea" name="content" class="popup__itemInput popup__itemInput--textarea" placeholder="Treść wiadomości"></textarea>
+          </div>
+          <div class="popup__item">
+            <label class="popup__itemLabel">
+              <span class="popup__itemLabelText">Zdjęcie/Video</span>
+              <label class="popup__itemInput popup__itemInput--file">
+                <input type="file" name="file">
+                <span>Załącz plik</span>
+                <span class="popup__itemFile"></span>
+              </label>
+            </label>
+          </div>
+          <div class="popup__item">
+            <div class="popup__itemInfo">Wysyłając niniejszy formularz niniejszym oświadczam, że jestem autorem przesyłanego zdjęcia/video/tekstu i zgadzam się na nieodpłatne wykorzystanie tego materiału na łamach epoznan.pl, wtkplay.pl i Telewizji WTK.</div>
+          </div>
+          <div class="popup__item" id="alert-contact-captcha-required" style="display: none;">
+            <div class="popup__itemInfo" style="color: #f00;">Aby wysłać formularz, konieczne jest zaznaczenie opcji 'Nie jestem robotem'.</div>
+          </div>
+          <div class="popup__item">
+            <div id="contact-recaptcha" class="popup__itemRecaptcha"></div>
+          </div>
+        </div>
+        <div class="popup__footer">
+          <div class="popup__footerButtons">
+            <button type="button" class="popup__footerButton popup__footerButton--border popup__footerButton--cancel">Anuluj</button>
+            <button id="contact-submit" type="button" class="popup__footerButton popup__footerButton--fill" onclick="javascript: sendContactForm();">Wyślij</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="popup" data-popup="remember-password">
+    <div class="popup__outer">
+      <div class="popup__inner">
+        <button class="popup__close"></button>
+        <form id="remember-password-form" class="popup__wrapper popup__wrapper--small" method="post" action="https://epoznan.pl/rememberPassword" style="width: 500px; height: 260px;">
+          <input type="hidden" name="_token" value=""> <!-- <input type="hidden" name="_token" value=""> -->
+          <div class="popup__message" style="padding: 20px 5px;">Jeśli zapomniałeś hasła podaj adres e-mail na który zarejestrowałeś swoje konto aby wygenerować nowe hasło.</div>
+          <div class="popup__item" style="margin-top: 0;">
+              <input type="hidden" name="action" value="remind_pass" />
+              <input type="text" name="email" class="popup__itemInput popup__itemInput--input" placeholder="Twój adres e-mail" style="width: 420px;">
+          </div>
+          <div class="popup__footer">
+            <div class="popup__footerButtons" style="text-align: center;">
+              <button type="button" class="popup__footerButton popup__footerButton--border popup__footerButton--cancel">Anuluj</button>
+              <button type="button" class="popup__footerButton popup__footerButton--fill" onclick="javascript: sendNewPasswordForm();">Wyślij</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+</div>
+<div class="popup" data-popup="contact-send">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <form class="popup__wrapper popup__wrapper--small">
+        <div class="popup__message">Zgłoszenie “Spotted” wysłane. Po akceptacji redakcji, pojawi się na stronie.</div>
+      </form>
+    </div>
+  </div>
+</div><div class="popup" data-popup="message-send">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <form class="popup__wrapper popup__wrapper--small">
+        <div class="popup__message">Zgłoszenie “Wyznaję” wysłane. Po akceptacji redakcji, pojawi się na stronie.</div>
+      </form>
+    </div>
+  </div>
+</div><div class="popup" data-popup="spotted-contact">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <form class="popup__wrapper popup__wrapper--small">
+        <div class="popup__message">KONTAKT:<br><span class="popup__value"></span></div>
+      </form>
+    </div>
+  </div>
+</div><div class="popup" data-popup="spotted-send">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <form class="popup__wrapper popup__wrapper--small">
+        <div class="popup__message">Zgłoszenie “Spotted” wysłane. Po akceptacji redakcji, pojawi się na stronie.</div>
+      </form>
+    </div>
+  </div>
+</div><div class="popup" id="delete-comment-popup" data-popup="comment-delete" method="post">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close" onclick="javascript: $('#delete-comment-popup').removeClass('popup--active');"></button>
+      <form id="delete-comment-form" action="https://epoznan.pl/deleteComment" method="post" class="popup__wrapper">
+        <input type="hidden" name="_token" value=""> <!-- <input type="hidden" name="_token" value=""> -->
+        <input id="delete-comment-id" type="hidden" name="comment_id" value=""/>
+        <h5 class="popup__title">Uzasadnij zgłoszenie komentarza do usunięcia</h5>
+        <div class="popup__item">
+          <textarea id="delete-comment-reason" name="message" class="popup__itemInput popup__itemInput--textarea" placeholder="Uzasadnienie"></textarea>
+        </div>
+        <div class="popup__footer">
+          <div class="popup__footerButtons">
+            <button type="button" class="popup__footerButton popup__footerButton--border popup__footerButton--cancel" onclick="javascript: $('#delete-comment-popup').removeClass('popup--active');">Anuluj</button>
+            <button type="button" onclick="javascript: sendDeleteCommentForm();" class="popup__footerButton popup__footerButton--fill">Wyślij</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="popup" data-popup="comment-reply">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <form class="popup__wrapper">
+        <h5 class="popup__title">Odpowiedz na komentarz</h5>
+        <div class="popup__item">
+          <textarea name="message" class="popup__itemInput popup__itemInput--textarea" placeholder="Odpowiedź"></textarea>
+        </div>
+        <div class="popup__footer">
+          <div class="popup__footerButtons">
+            <button type="button" class="popup__footerButton popup__footerButton--border popup__footerButton--cancel">Anuluj</button>
+            <button type="submit" class="popup__footerButton popup__footerButton--fill" data-popup-open="comment-added">Wyślij</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div><div class="popup" data-popup="comment-added">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <div class="popup__wrapper popup__wrapper--small">
+        <div class="popup__message">
+          <div class="popup__success"></div>
+          Komentarz został dodany.
+        </div>
+      </div>
+    </div>
+  </div>
+</div><div class="popup popup--newsError popup--noLock" data-popup="news-error">
+  <div class="popup__outer">
+    <div class="popup__inner">
+      <button class="popup__close"></button>
+      <form class="popup__wrapper" action="https://epoznan.pl/sendErrorReport" id="error-form" method="post" data-simplebar>
+        <input type="hidden" name="_token" value=""> <!-- <input type="hidden" name="_token" value=""> -->
+        <h5 class="popup__title">Co powinniśmy w tym newsie poprawić?</h5>
+        <input type="hidden" id="error-ready-to-send" name="error-ready-to-send" value="0" />
+                <div class="popup__items">
+          <div class="popup__item">
+            <textarea id="error-textarea" name="content" class="popup__itemInput popup__itemInput--textarea" placeholder="Treść wiadomości"></textarea>
+          </div>
+          <div class="popup__item" style="margin-top: 10px;">
+            <input id="error-sender" type="text" name="sender" class="popup__itemInput popup__itemInput--input" placeholder="Twój adres e-mail">
+          </div>
+          <div class="popup__item">
+            <div id="error-recaptcha" class="popup__itemRecaptcha"></div>
+          </div>
+        </div>
+        <div class="popup__footer">
+          <div class="popup__footerButtons">
+            <button type="button" class="popup__footerButton popup__footerButton--border popup__footerButton--cancel">Anuluj</button>
+            <button type="button" class="popup__footerButton popup__footerButton--fill" onclick="javascript: sendErrorReportForm();">Wyślij</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<div id="alert-popup" class="popup" data-popup="alert-popup">
+    <div class="popup__outer">
+      <div class="popup__inner">
+        <button class="popup__close" onclick="javascript: closeAlert();"></button>
+        <form class="popup__wrapper popup__wrapper--small">
+          <div class="popup__message"></div>
+        </form>
+      </div>
+    </div>
+</div>
+<div id="alert-popup-end" class="popup" data-popup="alert-popup">
+    <div class="popup__outer">
+      <div class="popup__inner">
+        <button class="popup__close" onclick="javascript: closeAlertEnd();"></button>
+        <form class="popup__wrapper popup__wrapper--small">
+          <div class="popup__message"></div>
+        </form>
+      </div>
+    </div>
+</div>
+<div class="popup" data-popup="login-form" id="login-form-popup" style="z-index: 9999;">
+    <div class="popup__outer">
+        <div class="popup__inner">
+            <button class="popup__close" onclick="javascript: $('#login-form-popup').removeClass('popup--active');"></button>
+            <form id="login-form-2" class="popup__wrapper popup__wrapper--small" action="https://epoznan.pl/login" class="header__loginInner" method="post">
+                <input type="hidden" name="_token" value=""> <!-- <input type="hidden" name="_token" value=""> -->
+                <label class="header__loginLabel">
+                    <span class="header__loginText">Login</span>
+                    <input type="text" name="login" class="header__loginInput" value="">
+                </label>
+                <label class="header__loginLabel">
+                    <span class="header__loginText">Hasło</span>
+                    <input type="password" name="password" class="header__loginInput" value="">
+                    <a href="#" class="header__loginPassword"></a>
+                    <a href="#" class="header__loginText header__loginText--link" data-popup-open="remember-password">Zapomniałeś hasła?</a>
+                </label>
+                <button type="button" class="header__loginSubmit" id="login-button-2">Zaloguj</button>
+                <div class="header__loginInfo">
+                    <div class="header__loginInfoInner">Nie masz konta? <a href="https://epoznan.pl/register">Zarejestruj się</a></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="popup" id="adult-popup" data-popup="comment-delete" method="post">
+    <div class="popup__outer">
+        <div class="popup__inner">
+            <button class="popup__close" onclick="javascript: window.location.href = '//www.epoznan.pl';"></button>
+            <form class="popup__wrapper popup__wrapper--small">
+                <div class="popup__message" style="padding: 20px 5px;">Materiał zawiera treści przeznaczone tylko dla osób dorosłych. Jeśli nie ukończyłeś 18 roku życia i tym samym w świetle polskiego prawa nie jesteś osobą pełnoletnią, nie wolno Ci wchodzić dalej. Wchodząc dalej oświadczasz, iż jesteś osobą pełnoletnią.</div>
+                <div class="popup__footerButtons">
+                    <button type="button" onclick="javascript: $('#adult-popup').removeClass('popup--active'); $('.popup__outer').css('background-color', 'rgba(0, 0, 0, 0.3)');" class="popup__footerButton popup__footerButton--fill">Tak</button>
+                    <button type="button" class="popup__footerButton popup__footerButton--border popup__footerButton--cancel" onclick="javascript: window.location.href = '//www.epoznan.pl';">Nie</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<footer class="footer">
+        <div class="container">
+          <div class="row">
+            <div class="footer__inner">
+                <ul class="footer__stats">
+  <li class="footer__stat" id="footer-1-up">
+    <h4 class="footer__statTitle">Nr 1</h4>
+    <div class="footer__statDesc">W Poznaniu</div>
+  </li>
+  <li class="footer__stat" id="footer-2-up">
+    <h4 class="footer__statTitle">1 mln 429 tysięcy</h4>
+    <div class="footer__statDesc">Czytelników</div>
+  </li>
+  <li class="footer__stat" id="footer-3-up">
+    <img src="new_assets/img/logo.svg" class="footer__statImage" alt="">
+    <div class="footer__statDesc">Siła miliona Czytelników</div>
+  </li>
+</ul>
+                <ul class="footer__columns">
+  <li class="footer__column" id="footer-1-down">
+    <a href="//epoznan.pl/article/offer" class="footer__link" id="footer-link-1">Oferta reklamowa</a>
+    <a href="//epoznan.pl/patronate" class="footer__link" id="footer-link-2">Nasz patronat</a>
+    <a href="//epoznan.pl/article/privacy_policy" class="footer__link" id="footer-link-3">Polityka prywatności</a>
+    <a href="//epoznan.pl/article/services_regulations" class="footer__link" id="footer-link-4">Regulamin serwisu</a>
+    <a href="//epoznan.pl/rss" class="footer__link" id="footer-link-5">RSS</a>
+    <a href="//epoznan.pl/contact" class="footer__link" id="footer-link-6">Kontakt</a>
+  </li>
+  <li class="footer__column" id="footer-2-down">
+    <div class="footer__columnText">
+      <p class="footer__contact" id="footer-contact-1">Kontakt 24/7:</p>
+      <p class="footer__contact" id="footer-contact-2"><a href="/cdn-cgi/l/email-protection#36445352575d555c57765346594c58575818465a"><span class="__cf_email__" data-cfemail="2351464742484049426346534c594d424d0d534f">[email&#160;protected]</span></a></p>
+      <p class="footer__contact" id="footer-contact-3">MMS/SMS: <span style="color: #6a6a6a;">537 133 133</span></p>
+      <p class="footer__contact" id="footer-contact-4"><a href="#" data-popup-open="contact">Formularz kontaktowy</a></p>
+    </div>
+  </li>
+  <li class="footer__column" id="footer-3-down">
+
+    <div class="footer__columnText">
+      <p class="footer__label">Redaktor naczelny:</p>
+      <p class="footer__employees">
+        <strong>Witold Kundzewicz</strong>
+      </p>
+      <p class="footer__label">Redaktor prowadzący:</p>
+      <p class="footer__employees">
+        <strong>Kasia Żurowska</strong>
+      </p>
+      <p class="footer__label">Redakcja:</p>
+      <p class="footer__employees">
+        <strong>Joanna Wachowska, Szymon Kaczmarek</strong>
+      </p>
+      <p class="footer__label">IT:</p>
+      <p class="footer__employees">
+        <strong>Tomasz Płuciennik</strong>
+      </p>
+    </div>
+  </li>
+</ul>
+                <div class="footer__boxesWrapper">
+    <!-- /21727502935/gam_epoznan_pl/epoznan.pl_desktop_all_970x250_under_page -->
+    <div id='div-gpt-ad-1555317216889-0'>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555317216889-0'); });
+    </script>
+    </div>
+    <div id="adsys-38" style="margin: auto; margin-bottom: 16px;"></div>
+</div>
+            </div>
+          </div>
+        </div>
+    </footer>
+
+
+    <div class="stickyBanner" id="adsys-19" style="width: 150px; height: 400px;"></div>
+
+    <div id="rodo-info-box" style="display: none; position: fixed; width:100%; left: 0; top: 0; z-index:99999; padding-top: 20px; padding-bottom: 20px; background: #fff; border-bottom: 1px solid #d8d8d8;">
+        <div class="page" style="max-width: 1000px; padding: 10px; margin: 0 auto;">
+            <img src="//old.epoznan.pl/images/topicons/epoznan_logmenu.png" style="width: 100px; height: auto; max-width: 25%; float: left; margin-right: 20px; margin-top: 17px; margin-bottom: 120px;" alt="RODO info obraz" />
+            <p style="font-family: Arial; font-size: 22px; margin-top: 15px; margin-bottom: 15px;">Dbamy o Twoje bezpieczeństwo</p>
+            <p style="font-family: Arial; text-align: justify; font-size: 12px; line-height: 18px;">Wykorzystujemy pliki cookies w celu zapewnienia optymalnego działania strony internetowej oraz ułatwienia Państwu korzystania z naszego serwisu. Pozwala to m.in. dostosować wygląd strony internetowej oraz reklamy do Państwa preferencji. Pliki cookies wykorzystujemy także w celach statystycznych. Zarządzać plikami coookies mogą Państwa z poziomu wykorzystywanej przeglądarki internetowej. Więcej informacji znajdą Państwo w <a target="_blank" href="//epoznan.pl/article/privacy_policy" style="color: rgb(0,0,238);">Polityce Prywatności</a>.</p>
+            <div style="text-align: right; padding-right: 16px;">
+                <button type="button" class="rodo-accept" style="margin-right: 20px; background: #1E8BC3; color: #fff; padding: 8px 22px; border: 0; cursor: pointer; font-size: 18px; font-family: Arial; border-radius: 3px;">Rozumiem</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="epoznan-apk-banner-container" style="display: none; width: 100%; height: 75px; position: fixed; z-index: 10000; bottom: 0;">
+        <div id="epoznan-apk-banner" style="width: 100%; max-width: 450px; height: 75px; background-image: url('https://epoznan.pl/new_assets/img/epoznan-apk-banner.jpg'); background-size: 100% 100%; margin: 0 auto; cursor: pointer;">
+            <div id="epoznan-apk-banner-close" style="width: 16px; height: 16px; margin-top: 2px; margin-right: 2px; float: right;"></div>
+        </div>
+    </div>
+
+    <div id="fb-root"></div>
+    <script>
+    (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+    <script src="https://epoznan.pl/new_assets/js/jquery-3.3.1.min.js"></script>
+    <script src="https://epoznan.pl/new_assets/js/app.js?1597942399"></script>
+    <script src="https://epoznan.pl/new_assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="https://epoznan.pl/new_assets/js/swipe-detect.min.js"></script>
+
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2065216-1']);
+    _gaq.push(['_setSampleRate', '100.0']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    </script>
+
+        <script>
+        function get_adult_confirm_alert() {}
+        function drawMap() {}
+
+        var newsListPage = 1;
+
+        $(document).ready(function() {
+            hideShowMoreButton();
+        });
+
+        function hideShowMoreButton() {
+            if ($('.last-news-row').length) {
+                $('#show-more-news-list-wrapper').hide();
+            }
+        }
+
+        function showMoreNewsListDesktop(page) {
+            $.getJSON('/showMoreNewsListDesktop-0-' + page, function(data) {
+                newsListPage++;
+                $('#show-more-news-list').attr('href', 'javascript: showMoreNewsListDesktop(' + newsListPage + ');');
+                $('#newsListContainer').append(data.output);
+                setTimeout(function(){
+                    hideShowMoreButton();
+                }, 300);
+            });
+        }
+    </script>
+</body>
+</html>
+
